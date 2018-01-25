@@ -1,0 +1,4 @@
+plugins {
+    id 'com.enonic.xp.doc' version '1.0.7'
+}
+
