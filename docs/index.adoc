@@ -1,6 +1,6 @@
 = Installing the Enonic XP Development Environment
 
-*Instructions to get the Enonic XP Developer Environment running on your local computer*
+*Quickly get the Enonic XP Developer Environment running on Windows, Mac or Linux!*
 
 If you experience problems, check out the <<troubleshooting>> section.
 
